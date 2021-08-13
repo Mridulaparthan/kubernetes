@@ -16,7 +16,7 @@
 
     5) delete service     : kubectl delete service hello-node
     
-    6) curl command       : curl $(minikube ip):$NODE_PORT
+    6) curl command       : curl {url}
 
     7) get replica set    : kubectl get rs
 
